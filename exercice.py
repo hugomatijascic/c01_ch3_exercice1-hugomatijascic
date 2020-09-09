@@ -5,12 +5,11 @@ import math
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
-    return 
+    return math.sqrt()
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return math.pow(number, 2
-    )
+    return math.pow(number, 2)
 
 def main() -> None:
     for i in range(25):
